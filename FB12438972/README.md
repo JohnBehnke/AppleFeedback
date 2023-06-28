@@ -1,4 +1,4 @@
-#  SwiftUI Lists in macOS don't appear to be Lazy Loading like Lists in iOS
+#  SwiftUI Lists in macOS don't appear to be Lazy Loading like Lists in iOS (Fixed as of macOS 14)
 
 macOS 13.4 (22F66)
 
